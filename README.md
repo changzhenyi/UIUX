@@ -1,2 +1,2 @@
-# UIUX-Practice-1
+# UIUX
 First attempt at UIUX
